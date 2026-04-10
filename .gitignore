@@ -1,2 +1,3 @@
-	practice/output.txt
-	
+pipeline/output.csv
+*.log
+

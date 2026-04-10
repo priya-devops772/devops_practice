@@ -15,5 +15,7 @@
 
 import datetime
 
+print("Running inside Docker...")
+
 with open("output.txt", "a") as f:
     f.write("Run at: " + str(datetime.datetime.now()) + "\n")
